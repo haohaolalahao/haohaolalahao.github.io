@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://haohaolalahao.github.io</id>
     <title>haohao&apos;s blog</title>
-    <updated>2019-10-30T09:25:20.069Z</updated>
+    <updated>2019-10-30T09:27:05.328Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://haohaolalahao.github.io"/>
     <link rel="self" href="http://haohaolalahao.github.io/atom.xml"/>
@@ -16,6 +16,7 @@
         </link>
         <updated>2019-01-25T11:09:48.000Z</updated>
         <content type="html"><![CDATA[<p>Hello World</p>
+<figure data-type="image" tabindex="1"><img src="http://haohaolalahao.github.io/post-images/1572427611617.JPG" alt=""></figure>
 ]]></content>
     </entry>
     <entry>
